@@ -8,6 +8,7 @@
   <li><a href="vets">Display all veterinarians</a></li>
 </ul>
 
+Bienvenue Team 6!
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
