@@ -9,6 +9,7 @@
 </ul>
 
 Bienvenue Team 6!
+Déploiement sur Tomcat par tomcat-maven-plugin
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
